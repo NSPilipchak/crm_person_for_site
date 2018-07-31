@@ -1,0 +1,23 @@
+<?xml version = '1.0'?>
+<app-settings>
+    <properties>
+        <property key="APPName">Тестовая версия crm_person</property>
+        <property key="MainFrame.width">520</property>
+        <property key="MainFrame.height">403</property>
+        <property key="URL.FOLDER_DOCUM_FILE">D://docs</property>
+        <property key="DBurl">localhost</property>
+        <property key="DBname">crm_person</property>
+        <property key="DBuser">crm_person_user</property>
+        <property key="DBpass">crm_person_pass</property>
+        <property key="AutoUpdateDB">1</property>
+        <property key="DateBaseUpdateTime">60000</property>
+        <property key="EditableLastYear">0</property>
+        <property key="ReportPath">./reports/</property>
+        <property key="SaveGeneratedReport">1</property>
+        <property key="GeneratedReportPath">./reports/generated/</property>
+        <property key="Bus">51,51,49,40,40,40,42</property>
+        <property key="CountLevelStatusBar">300</property>
+        <property key="TableRowHeight">25</property>
+        <property key="TableFontSize">17</property>
+    </properties>
+</app-settings>
